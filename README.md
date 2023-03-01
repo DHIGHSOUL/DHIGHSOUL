@@ -1,2 +1,3 @@
 - 👋 Hi, I’m JKH, Rolf
 - 🌱 I’m currently learning few things for improving my programming skills
+- 📱 I aspiring to be an iOS developer
