@@ -4,7 +4,7 @@
 
 #
 
-<p align="center">
-  [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DHIGHSOUL&show_icons=true&theme=swift)
-  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DHIGHSOUL&layout=compact&theme=swift)
-</p>
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=DHIGHSOUL&show_icons=true&theme=swift" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHIGHSOUL&theme=radical&layout=swift" />
+</div>
