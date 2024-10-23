@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Rolf.J&animation=fadeIn&fontColor=ffffff&stroke=000000&storkeWidth=30&fontSize=120)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=ROLF.J&animation=fadeIn&fontColor=ffffff&stroke=000000&storkeWidth=30&fontSize=120)
 
 <h3 align="center">🧑🏻‍💻 About Me</h3>
 <div align="center">
