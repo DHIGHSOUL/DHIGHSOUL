@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Rolf.J&animation=fadeIn&fontColor=ffffff&fontSize=120)
 
-#### 🧑🏻‍💻 About Me
-#
+<h3 align="center">🧑🏻‍💻 About Me</h3>
 <div align="center">
  RESUME
  <br>
@@ -9,11 +8,11 @@
  <br>
  <a href="https://velog.io/@d_highsoul/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black"/></a>
  <a href="https://www.instagram.com/h_s.1227?igsh=emI0azljanh3ZzJo&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=black"/></a>
- <a href="highsoul1227@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
 </div>
 
-#### 💻 Tech Stack
-#
+<hr>
+
+<h3 align="center">💻 Tech Stack</h3>
 <div align="center">
  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
  <img src="https://img.shields.io/badge/Swift-FB5138?style=flat-square&logo=Swift&logoColor=white"/>
@@ -36,8 +35,9 @@
  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
 </div>
 
-#### 🛠️ Tools
-#
+<hr>
+
+<h3 align="center">🛠️ Tools</h3>
 <div align="center">
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/>
  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
@@ -53,8 +53,10 @@
  <img src="https://img.shields.io/badge/Google Meet-00897B?style=flat-square&logo=Google Meet&logoColor=white"/>
 </div>
 
-#### 📊 Stats
-#
+<hr>
+
+<h3 align="center">📊 Stats</h3>
+
 <div align="center"; style="display: flex; flex-direction: column;">
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHIGHSOUL&theme=swift&layout=compact"/><br>
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=DHIGHSOUL&show_icons=true&theme=swift"/>
