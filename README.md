@@ -1,5 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Rolf.J&animation=fadeIn&fontColor=ffffff&fontSize=120)
 
+#### RESUME
+#
+<div align="center">
+ 
+</div>
+
 #### Stack
 #
 <div align="center">
@@ -21,6 +27,7 @@
  <br>
  <img src="https://img.shields.io/badge/Creality-000000?style=flat-square&logo=Creality&logoColor=white"/>
  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Ubuntu-E954420?style=flat-square&logo=Ubuntu&logoColor=white"/>
 </div>
 
 #### Tools
@@ -34,6 +41,10 @@
  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/>
  <img src="https://img.shields.io/badge/Miro-050038?style=flat-square&logo=Miro&logoColor=white"/>
+ <br>
+ <img src="https://img.shields.io/badge/Discord-5862F2?style=flat-square&logo=Discord&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Zoom-085CFF?style=flat-square&logo=Zoom&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Google Meet-00897B?style=flat-square&logo=Google Meet&logoColor=white"/>
 </div>
 
 #### Stats
