@@ -3,7 +3,7 @@
 <h3 align="center">🧑🏻‍💻 About Me</h3>
 <div align="center">
  📱 Aspiring iOS developet
-</div>
+</div><br>
 <div align="center">
  RESUME
  <br>
