@@ -2,6 +2,9 @@
 
 <h3 align="center">🧑🏻‍💻 About Me</h3>
 <div align="center">
+ 📱 Aspiring iOS developet
+</div>
+<div align="center">
  RESUME
  <br>
  <a href="https://potent-barnacle-025.notion.site/Kyeongho-Jang-366927020a4b4329bf9a37834a7d7b36?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Kyeongho Jang-ffffff?style=flat-square&logo=Notion&logoColor=black"/></a>
