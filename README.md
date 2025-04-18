@@ -32,7 +32,7 @@
  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
  <img src="https://img.shields.io/badge/VSCode-ffffff?style=flat-square&logoColor=22a3f1"/>
- <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
+ <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
  <br>
  <img src="https://img.shields.io/badge/Creality-000000?style=flat-square&logo=Creality&logoColor=white"/>
  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
@@ -54,6 +54,7 @@
  <br>
  <img src="https://img.shields.io/badge/Discord-5862F2?style=flat-square&logo=Discord&logoColor=white"/>
  <img src="https://img.shields.io/badge/Zoom-085CFF?style=flat-square&logo=Zoom&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Google Meet-00897B?style=flat-square&logo=googlemeet&logoColor=white"/>
 </div>
 
 <hr>
