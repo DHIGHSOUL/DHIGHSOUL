@@ -21,7 +21,7 @@
  <img src="https://img.shields.io/badge/Swift-FB5138?style=flat-square&logo=Swift&logoColor=white"/>
  <img src="https://img.shields.io/badge/SwiftUI-0075fe?style=flat-square&logo=Swift&logoColor=white"/>
  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
- <img src="https://img.shields.io/badge/App Store Connect-ffffff?style=flat-square&logo=App Store&logoColor=2090f6"/>
+ <img src="https://img.shields.io/badge/App Store Connect-ffffff?style=flat-square&logo=appstore&logoColor=2090f6"/>
  <br>
  <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=white"/>
  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
