@@ -54,7 +54,6 @@
  <br>
  <img src="https://img.shields.io/badge/Discord-5862F2?style=flat-square&logo=Discord&logoColor=white"/>
  <img src="https://img.shields.io/badge/Zoom-085CFF?style=flat-square&logo=Zoom&logoColor=white"/>
- <img src="https://img.shields.io/badge/Google Meet-00897B?style=flat-square&logo=Google Meet&logoColor=white"/>
 </div>
 
 <hr>
