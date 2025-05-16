@@ -2,7 +2,7 @@
 
 <h3 align="center">🧑🏻‍💻 About Me</h3>
 <div align="center">
- 📱 Aspiring Full-stack developer
+ 🛠️ Aspiring Full-stack engineer
 </div><br>
 <div align="center">
  RESUME
