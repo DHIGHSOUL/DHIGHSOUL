@@ -9,7 +9,7 @@
  <br>
  <a href="https://potent-barnacle-025.notion.site/Kyeongho-Jang-366927020a4b4329bf9a37834a7d7b36?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Kyeongho Jang-ffffff?style=flat-square&logo=Notion&logoColor=black"/></a>
  <br>
- <a href="https://velog.io/@d_highsoul/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black"/></a>
+ <!-- <a href="https://velog.io/@d_highsoul/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=black"/></a> -->
  <a href="https://www.instagram.com/h_s.1227?igsh=emI0azljanh3ZzJo&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=black"/></a>
 </div>
 
