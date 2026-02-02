@@ -17,17 +17,23 @@
 
 <h3 align="center">💻 Tech Stack</h3>
 <div align="center">
+ <!-- iOS --> 
  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
  <img src="https://img.shields.io/badge/Swift-FB5138?style=flat-square&logo=Swift&logoColor=white"/>
  <img src="https://img.shields.io/badge/SwiftUI-0075fe?style=flat-square&logo=Swift&logoColor=white"/>
  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
  <img src="https://img.shields.io/badge/App Store Connect-ffffff?style=flat-square&logo=appstore&logoColor=2090f6"/>
  <br>
+ <!-- Web --> 
+ <img src="https://img.shields.io/badge/Vue.js-ffffff?style=flat-square&logo=vuedotjs&logoColor=#4FC08D"/>
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
  <br>
+ <!-- Backend --> 
+ <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white"/>
  <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=white"/>
  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=Firebase&logoColor=white"/>
- <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+ <!-- Programming Language --> 
  <br>
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
@@ -35,6 +41,7 @@
  <img src="https://img.shields.io/badge/VSCode-ffffff?style=flat-square&logoColor=22a3f1"/>
  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
  <br>
+ <!-- OS / 3D --> 
  <img src="https://img.shields.io/badge/Creality-000000?style=flat-square&logo=Creality&logoColor=white"/>
  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
@@ -44,6 +51,7 @@
 
 <h3 align="center">🛠️ Tools</h3>
 <div align="center">
+ <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/>
  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
