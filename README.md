@@ -2,7 +2,8 @@
 
 <h3 align="center">🧑🏻‍💻 About Me</h3>
 <div align="center">
- 🛠️ Aspiring Full-stack engineer
+ 🛠️ Aspiring Full-stack engineer<br>
+ 🤖 Interested in Automation, AI
 </div><br>
 <div align="center">
  RESUME
